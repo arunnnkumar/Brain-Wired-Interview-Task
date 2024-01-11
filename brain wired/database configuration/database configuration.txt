@@ -1,0 +1,9 @@
+step 1: install sqlite on your system by using "https://www.sqlite.org/download.html" for your respective OS.
+ 
+step 2: open the following folders brain wired->task->src->main->resources->appliction.properties
+
+step 3: line 1 please give a location to store a .db file
+ example :
+          "spring.datasource.url=jdbc:sqlite:D:\java\interview task\brain wired\db\arunnn.db"
+
+here 'D:\java\interview task\brain wired\db\arunnn.db' this is my file location rest of the thing must be same.

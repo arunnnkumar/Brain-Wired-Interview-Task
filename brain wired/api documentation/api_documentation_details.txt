@@ -1,0 +1,3 @@
+http://localhost:8080/swagger-ui/index.html#/
+
+By this link we can check the api details
